@@ -1,1 +1,1 @@
-# [Menu](https://fishenzone.github.io/menu)
+# [Menu](https://fishenzone-freecodecamp.github.io/menu)
